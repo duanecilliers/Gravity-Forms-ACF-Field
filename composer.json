@@ -1,0 +1,21 @@
+{
+  "name": "duanecilliers/Gravity-Forms-ACF-Field",
+  "type": "wordpress-plugin",
+  "description": "ACF field to select one or many Gravity Forms",
+  "keywords": ["wordpress", "Gravity Forms", "ACF"],
+  "homepage": "https://github.com/duanecilliers/Gravity-Forms-ACF-Field",
+  "license": "GPL-3.0",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=5.3"
+  },
+  "authors": [
+    {
+      "name": "adam_pope of @stormuk"
+    },
+    {
+      "name": "Duane Cilliers",
+      "email": "hello@duane.co.za"
+    }
+  ]
+}
